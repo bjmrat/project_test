@@ -2,7 +2,7 @@ public class p
 
 /**
    Class to accept data for circles.  Taking the information and 
-   calculating area, diameter, and circumference.
+   calculator area, diameter, and circumference.
 */
 
 public class Circle
