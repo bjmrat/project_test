@@ -1,7 +1,7 @@
 public class p
 
 /**
-   Class to accept data for circles.  Taking the information and 
+   Mass to accept data for circles.  Taking the information and 
    calculator area, diameter, and circumference.
 */
 
