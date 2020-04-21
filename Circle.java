@@ -10,7 +10,7 @@ public class Circle
    private double radius;
    private final double PI = 3.14159;
    
-   // No arg constructor that sets the radius field to 0.o.
+   // No arg constructor that sets the radius field to 0.0.
    public Circle()
    {
    radius = 0.0;
